@@ -1,7 +1,7 @@
 .primary-header {
-    --_bg: hsl(0 0% 100%);
-    --_logo-color: hsl(0, 0%, 5%);
-    --_nav-link-color: hsl(37, 82%, 20%);
+    --_bg: hsl(0 0% 7%);
+    --_logo-color: hsl(0, 0%, 100%);
+    --_nav-link-color: hsl(37, 82%, 64%);
   
     padding: 1rem;
     background: var(--_bg);
